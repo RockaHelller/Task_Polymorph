@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Poly_Abstract_Interface\Service\obj\Debug\netcoreapp3.1\Service.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Poly_Abstract_Interface\Service\obj\Debug\netcoreapp3.1\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Poly_Abstract_Interface\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Poly_Abstract_Interface\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\User\source\repos\Poly_Abstract_Interface\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Poly_Abstract_Interface\Service\obj\Debug\netcoreapp3.1\Service.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Poly_Abstract_Interface\Service\obj\Debug\netcoreapp3.1\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Poly_Abstract_Interface\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Poly_Abstract_Interface\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\User\Desktop\Poly_Abstract_Interface\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
